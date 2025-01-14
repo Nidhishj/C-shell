@@ -1,0 +1,8 @@
+echo hello & echo hello | wc 
+echo hi > newfile.txt
+echo hi 
+hop - 
+hop ~
+hop ..
+hop ~
+hop `
