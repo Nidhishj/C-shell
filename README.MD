@@ -92,5 +92,3 @@ Syntax - `iMan <command>`
 This will be parsing a html page of a system command from the website - `http://man.he.net/`. 
 
 Note only the first commands html page would be displayed rest would be ignored.
-
-Prompts file - prompts.odt
