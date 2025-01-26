@@ -85,7 +85,7 @@ Syntax- `neonate -n <time>`
 
 So here we are printing the most recent pids being generated after a time interval of `time_arg` seconds. This continues until key `x` is not being pressed.
 
-#### iMan 
+#### iman 
 
 Syntax - `iMan <command>`
 
